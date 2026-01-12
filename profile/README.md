@@ -4,6 +4,12 @@ Uptime de todos los servicios: https://uptime.mapasmn.com/status/smn
 
 ## Servicios
 
+#### visualizator (Mapa interactivo)
+
+URL: https://mapasmn.com
+
+<img src="https://uptime.mapasmn.com/api/badge/8/status?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/8/uptime?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/8/ping?style=flat-square" />
+
 #### data-service
 
 URL: https://data.mapasmn.com/docs
