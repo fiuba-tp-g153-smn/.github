@@ -16,6 +16,10 @@ URL: https://data.mapasmn.com/docs
 
 <img src="https://uptime.mapasmn.com/api/badge/5/status?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/5/uptime?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/5/ping?style=flat-square" />
 
+#### tiles-processor
+
+<img src="https://uptime.mapasmn.com/api/badge/9/status?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/9/uptime?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/9/ping?style=flat-square" />
+
 #### Console Coolify CentralSV
 
 Console URL: https://console.mapasmn.com
