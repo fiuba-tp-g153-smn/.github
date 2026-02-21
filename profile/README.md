@@ -4,7 +4,7 @@ Uptime de todos los servicios: https://uptime.mapasmn.com/status/smn
 
 ## Servicios
 
-#### visualizator (Mapa interactivo) [[repositorio]](https://github.com/fiuba-tp-g153-smn/visualizator)
+#### visualizer (Mapa interactivo) [[repositorio]](https://github.com/fiuba-tp-g153-smn/visualizer)
 
 URL: https://mapasmn.com
 
