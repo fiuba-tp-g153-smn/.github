@@ -16,6 +16,12 @@ URL: https://data.mapasmn.com/docs
 
 <img src="https://uptime.mapasmn.com/api/badge/5/status?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/5/uptime?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/5/ping?style=flat-square" />
 
+#### alerts-service [[repositorio]](https://github.com/fiuba-tp-g153-smn/alerts-service)
+
+URL: https://alerts.mapasmn.com/docs
+
+<img src="https://uptime.mapasmn.com/api/badge/11/status?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/11/uptime?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/11/ping?style=flat-square" />
+
 #### tiles-processor [[repositorio]](https://github.com/fiuba-tp-g153-smn/tiles-processor)
 
 <img src="https://uptime.mapasmn.com/api/badge/9/status?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/9/uptime?style=flat-square" /> <img src="https://uptime.mapasmn.com/api/badge/9/ping?style=flat-square" />
